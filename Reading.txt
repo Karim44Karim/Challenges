@@ -1,0 +1,34 @@
+Arrow Function vs Regular function
+
+أشهر أسئلة ال
+interview
+بالنسبة للفرونت آند. 
+ما هو الفرق بين ال
+var - let - const
+ما هو الفرق بين ال
+arrow function 
+و الفانكشن العادية. 
+ما هو الفرق بين ال
+display: none و visibility: hidden
+ما هو الفرق بين ال
+absolute - relative - fixed
+ما هو الفرق بين ال
+grid system و flex box
+ما هو الفرق بين ال == و ===
+ما هو الفرق بين ال
+prototipycal inheritance و classical inheritance
+ماهو ال
+Strict mode
+ما هي ال
+this
+و الحالات الخاصة بها. 
+ماهو الفرق بين ال
+Call - apply - bind
+ماهو ال
+Promise - try catch - async await
+ما هو ال
+Hoisting
+ما هي ال
+map - filter - find - forEach
+و ما هو الفرق بينهم.
+
