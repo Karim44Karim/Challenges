@@ -19,7 +19,7 @@ function getDetails(zName, zAge, zCountry) {
       // Syria => You Live In SY
       return zCountry.slice(0,2).toUpperCase();
     }
-    function fullDetails(zName,zAge,zCountry) {
+    function fullDetails() {
       // Write Your Code Here
       return ("Hello " + namePattern(zName) + ", Your Age Is " + ageWithMessage(zAge) + ", You Live in " + countryTwoLetters(zCountry));
     }
