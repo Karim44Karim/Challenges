@@ -1,0 +1,37 @@
+Definitions
+----------
+1- Manufacturing length: non finished cable where teh outer semi-conductor is finished and other layers are applied over it.
+
+2- Delivery length: Finished Cable.
+
+
+
+Design (IEC 63026:2019)
+----------
+1- Lead sheath is not mentioned in IEC 63026:2019.
+2- Oversheath is not mentioned also. However, outer serving is mentioned. The outer serving should be compatible with cable material that is in physical contact with
+	such as metal sheath, armour, oversheath or other material).
+
+
+
+
+Water Blocking (EDC Specs)
+----------
+
+1- Swelling powder is added to the conductor.
+2- Swelling tapes: 
+	a-are added before and after any metallic layer without adding two tapes over each other.
+	b-Swelling tapes are added before and after any metallic layer except for the conductor.
+
+Testing
+----------
+
+1- Type tests on cable systems are required. These tests are not included in IEC 60502-2.
+	"Apart from a type test for a land cable system according to IEC 60502-2 or IEC 60840 which
+	includes electrical and non-electrical tests, the submarine cable system type test includes a
+	more extensive mechanical type test programme prior to electrical testing."
+
+2- Routine Tests
+
+	a- Partial discharge is carried out on manufacturing lengths in addition to delivery lengths.
+
