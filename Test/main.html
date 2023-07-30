@@ -1,12 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
+  <head>
+    <meta charset="UTF-8" />
     <title>Target and CurrentTarget</title>
-    <meta name="viewport" content="width=device-width">
-</head>
-<body>
+    <meta name="viewport" content="width=device-width" />
+  </head>
+  <body>
+    <!-- <script>
+      var foo = function (name) {
+        this.myName = name;
+        this.tellMyName = function () {
+          console.log(this.myName);
+        };
+      };
 
+<<<<<<< HEAD
         <!-- <script>
 
     var foo = function(name) { 
@@ -38,4 +46,25 @@
 
     <script src="index.js"></script>
 </body>
+=======
+      var fooObj1 = new foo("James");
+      fooObj1.tellMyName();
+
+      ////////
+
+      var foo = function (name) {
+        this.myName = name;
+      };
+      foo.prototype.tellMyName = function () {
+        console.log(this.myName);
+      };
+
+      var fooObj1 = new foo("James");
+      fooObj1.tellMyName(); // will print James
+      var fooObj2 = new foo("Mike");
+      fooObj2.tellMyName(); // will print Mike
+    </script> -->
+    <script src="index.js"></script>
+  </body>
+>>>>>>> a6641697e737850716f4679b9c7e53acaec2af3e
 </html>
